@@ -1,0 +1,11 @@
+.center {
+margin: auto;
+width: 50%;
+padding: 10px 30px;
+}
+.head{
+    background-color:bisque;
+}
+.body1{
+    background-image: url(image/lib.jpg);
+}
